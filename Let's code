@@ -1,0 +1,3 @@
+# Displaying  "Hello world!" on the screen
+# print is a python defined default function, We are simply using it here
+print("Hello world!")
